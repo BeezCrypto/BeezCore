@@ -1,0 +1,28 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/beez_bg.qm</file>
+        <file alias="ca">locale/beez_ca.qm</file>
+        <file alias="cs">locale/beez_cs.qm</file>
+        <file alias="da">locale/beez_da.qm</file>
+        <file alias="de">locale/beez_de.qm</file>
+        <file alias="en">locale/beez_en.qm</file>
+        <file alias="en_US">locale/beez_en_US.qm</file>
+        <file alias="es">locale/beez_es.qm</file>
+        <file alias="fi">locale/beez_fi.qm</file>
+        <file alias="fr_FR">locale/beez_fr_FR.qm</file>
+        <file alias="it">locale/beez_it.qm</file>
+        <file alias="ja">locale/beez_ja.qm</file>
+        <file alias="ko_KR">locale/beez_ko_KR.qm</file>
+        <file alias="nl">locale/beez_nl.qm</file>
+        <file alias="pl">locale/beez_pl.qm</file>
+        <file alias="pt">locale/beez_pt.qm</file>
+        <file alias="pt_BR">locale/beez_pt_BR.qm</file>
+        <file alias="ro_RO">locale/beez_ro_RO.qm</file>
+        <file alias="ru">locale/beez_ru.qm</file>
+        <file alias="sk">locale/beez_sk.qm</file>
+        <file alias="sv">locale/beez_sv.qm</file>
+        <file alias="uk">locale/beez_uk.qm</file>
+        <file alias="zh_CN">locale/beez_zh_CN.qm</file>
+        <file alias="zh_TW">locale/beez_zh_TW.qm</file>
+    </qresource>
+</RCC>
